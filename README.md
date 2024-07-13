@@ -7,9 +7,7 @@
 <tr border="none">
 <td width="50%" align="left">
   
-- 🌱 I’m currently studying **Azure DevOps & Infrastructure Implementation**
-
--  🚀  I'm actively working towards transitioning into a <strong>DevOps Engineer</strong> role.
+- 🌱 I’m passionate in**.NET, Angulat, MySQL, Azure DevOps & Services**
 
 - 💬 Ask me about **.NET & Angular**
 
