@@ -9,6 +9,8 @@
   
 - 🌱 I’m currently studying **Azure DevOps & Infrastructure Implementation**
 
+- 🤖 I am keen on learning  **AI & ML** and applying them to real-world scenarios
+
 - 💬 Ask me about **.NET & Angular**
 
 - 📫 How to reach me **vdsiriwardhana@gmail.com**
@@ -16,7 +18,7 @@
 </td>
 <td width="50%" align="center">
 
-  <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e](https://i.pinimg.com/originals/66/4b/00/664b00ba92245769e9ac7a2be328f483.gif">
+  <img align="center" alt="Coding" width="450" src="https://github.com/siriwardhanaVD/siriwardhanaVD/blob/main/664b00ba92245769e9ac7a2be328f483.gif?raw=true">
 
   
   </td>
