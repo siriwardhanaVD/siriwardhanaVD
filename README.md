@@ -7,7 +7,7 @@
 <tr border="none">
 <td width="50%" align="left">
   
-- 🌱 I’m currently following **Azure Infrastructure Implementations using IaC**
+- 🌱 I’m currently studying **Azure DevOps & Infrastructure Implementation**
 
 - 💬 Ask me about **.NET & Angular**
 
@@ -62,4 +62,4 @@
 ---
 
 <h3 align="center">Support:</h3>
-<p align="center"><a href="https://www.buymeacoffee.com/scar2001"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="scar2001" /></a></p>
+<p align="center"><a href="https://www.buymeacoffee.com/siriwardhanaVD"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="siriwardhanaVD" /></a></p>
