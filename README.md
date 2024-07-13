@@ -9,7 +9,7 @@
   
 - 🌱 I’m currently studying **Azure DevOps & Infrastructure Implementation**
 
-- 🤖 I am keen on learning  **AI & ML** and applying them to real-world scenarios
+-  🚀  I'm actively working towards transitioning into a <strong>DevOps Engineer</strong> role.
 
 - 💬 Ask me about **.NET & Angular**
 
