@@ -7,7 +7,7 @@
 <tr border="none">
 <td width="50%" align="left">
   
-- 🌱 I’m passionate about**.NET, Angulat, MySQL, Azure DevOps & Azure Services**
+- 🌱 I’m passionate about **.NET, Angulat, MySQL, Azure DevOps & Azure Services**
 
 - 💬 Ask me about **.NET & Angular**
 
