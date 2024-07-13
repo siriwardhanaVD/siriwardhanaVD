@@ -18,7 +18,7 @@
 </td>
 <td width="50%" align="center">
 
-  <img align="center" alt="Coding" width="450" src="https://github.com/siriwardhanaVD/siriwardhanaVD/blob/main/664b00ba92245769e9ac7a2be328f483.gif?raw=true">
+  <img align="center" alt="Coding" width="450" src="https://github.com/siriwardhanaVD/siriwardhanaVD/blob/main/connect.gif?raw=true">
 
   
   </td>
